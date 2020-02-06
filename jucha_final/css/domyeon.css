@@ -1,0 +1,22 @@
+.demoPadder {
+    padding-top:15px;
+    }
+    .btn-default {
+  color: #007aff;
+  background-color: #fff;
+  border-color: #007aff;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open > .btn-default.dropdown-toggle {
+    color: #fff;
+  background-color: #007aff;
+  border-color: #007aff;
+    }
+    
+    body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.428571429;
+  color: #5c595a;
+  background-color: #dfe0d9;
+}
